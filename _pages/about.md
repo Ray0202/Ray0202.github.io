@@ -61,4 +61,8 @@ Internships
   - Beijing, China.&ensp;Jul. 2024 - Present
   - Focus on the application of LLMs in recommendation system. The paper on our work will be released soon.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script> -->
+
+<div style="transform: scale(0.5); transform-origin: top left;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script>
+</div>
