@@ -23,12 +23,12 @@ Selected Publications
 | **Re-ranking Algorithm Based on List-wise Behavior History** |
 | :------ |  
 | Yunjia Xi, **Muyan Weng**(Co-first author), Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu. |  
-| KDD 2025. (submitted)|
+| submitted to KDD 2025|
 
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
 | :------ |  
 | Yunjia Xi, Weiwen Liu, Jianghao Lin, **Muyan Weng**, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming Tang, Yong Yu, Weinan Zhang. |
-| The extended version of ['Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models'](https://arxiv.org/pdf/2306.10933). (submitted)|
+| The extended version of ['Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models'](https://arxiv.org/pdf/2306.10933), submitted to TORS 2025|
 
 | **Extracting Robust On-Manifold Interactions Encoded by Neural Networks** |
 | :------ |  
