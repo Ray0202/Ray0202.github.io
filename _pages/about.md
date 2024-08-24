@@ -20,7 +20,7 @@ Selected Publications
 =====
 
 
-| **Re-ranking Algorithm Based on List-wise Behavior History** |
+| **Re-ranking with List-level Historical Feedback** |
 | :------ |  
 | Yunjia Xi, **Muyan Weng**(Co-first author), Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu. |  
 | submitted to KDD 2025|
