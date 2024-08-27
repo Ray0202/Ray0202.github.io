@@ -2,7 +2,6 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-redirect_to: /files/CV_MyWeng.pdf
 author_profile: true
 redirect_from:
   - /resume

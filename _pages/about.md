@@ -28,7 +28,7 @@ Selected Publications
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
 | :------ |  
 | Yunjia Xi, Weiwen Liu, Jianghao Lin, **Muyan Weng**, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming Tang, Yong Yu, Weinan Zhang. |
-| ['link'](https://arxiv.org/abs/2408.10520), submitted to TORS 2025|
+| [link](https://arxiv.org/abs/2408.10520), submitted to TORS 2025|
 
 | **Extracting Robust On-Manifold Interactions Encoded by Neural Networks** |
 | :------ |  
