@@ -63,6 +63,10 @@ Internships
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script> -->
 
-<div style="transform: scale(0.5); transform-origin: top left;">
+<!-- <div style="transform: scale(0.5); transform-origin: top left;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script>
+</div> -->
+
+<div style="transform: scale(0.5); transform-origin: top center; text-align: center; margin: 0 auto;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script>
 </div>
