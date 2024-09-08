@@ -14,7 +14,7 @@ I am a undergraduate student at Shanghai JiaoTong University. I am now persuing 
 
 My research interests include machine learning and dataming, especially, deep learning, reinforcement learning and their applications in real-world data mining scenarios including recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
 
-I am now preparing my MS/PhD applications for Fall 2025, so if interested, please drop me an email!
+**I am now preparing my MS/PhD/RA applications for Fall 2025, so if interested, please drop me an email!**
 
 Selected Publications
 =====
