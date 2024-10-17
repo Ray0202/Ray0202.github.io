@@ -20,10 +20,10 @@ Selected Publications
 =====
 
 
-| **Re-ranking with List-level Historical Feedback** |
+| **Beyond Positive History: Re-ranking with List-level Hybrid Feedback** |
 | :------ |  
-| Yunjia Xi, **Muyan Weng**(Co-first author), Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu. |  
-| submitted to KDD 2025|
+| Yunjia Xi, **Muyan Weng**(Co-first author), Weiwen Liu, Bo Chen, Jianghao Lin, Yong Yu. |  
+| submitted to WWW 2025|
 
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
 | :------ |  
