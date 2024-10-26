@@ -22,7 +22,7 @@ Selected Publications
 
 | **Beyond Positive History: Re-ranking with List-level Hybrid Feedback** |
 | :------ |  
-| Yunjia Xi, **Muyan Weng**(Co-first author), Weiwen Liu, Bo Chen, Jianghao Lin, Yong Yu. |  
+| **Muyan Weng**, Yunjia Xi, Weiwen Liu, Bo Chen, Jianghao Lin, Yong Yu. |  
 | submitted to WWW 2025|
 
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
