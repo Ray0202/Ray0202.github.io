@@ -12,7 +12,7 @@ About me
 ======
 I am a undergraduate student at Shanghai JiaoTong University. I am now persuing a Bachelor's degree in Computer Science and Technology(IEEE Pilot Class). I am also the member of [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). before this, I had a wonderful research experience at Professor [Quanshi Zhang](http://qszhang.com/)'s [XAI Lab](https://sjtu-xai-lab.github.io/).
 
-My research interests include machine learning and dataming, especially, deep learning, reinforcement learning and their applications in real-world data mining scenarios including recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
+My research interests include machine learning and data mining, especially, recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
 
 **I am now preparing my MS/PhD/RA applications for Fall 2025, so if interested, please drop me an email!**
 
