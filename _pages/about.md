@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Muyan Weng(翁牧言)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Muyan Weng
+About me
 ======
 I am a undergraduate student at Shanghai JiaoTong University. I am now persuing a Bachelor's degree in Computer Science and Technology(IEEE Pilot Class). I am also the member of [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). before this, I had a wonderful research experience at Professor [Quanshi Zhang](http://qszhang.com/)'s [XAI Lab](https://sjtu-xai-lab.github.io/).
 
