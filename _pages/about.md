@@ -16,14 +16,14 @@ My research interests include machine learning and data mining, especially, reco
 
 **I am now preparing my MS/PhD/RA applications for Fall 2025, so if interested, please drop me an email!**
 
-Preprint
+PrePrint
 =====
 
 
 | **Beyond Positive History: Re-ranking with List-level Hybrid Feedback** |
 | :------ |  
 | **Muyan Weng**, Yunjia Xi, Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu. |  
-| [link](https://arxiv.org/abs/2410.20778) submitted to WWW 2025|
+| [link](https://arxiv.org/abs/2410.20778), submitted to WWW 2025|
 
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
 | :------ |  
@@ -34,9 +34,6 @@ Preprint
 | :------ |  
 | Jie Ren, **Muyan Weng**, Lu Chen, Tian Han, Quanshi Zhang. |  
 | (submitted)|
-
-
-
 
 
 
