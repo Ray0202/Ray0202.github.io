@@ -18,7 +18,6 @@ My research interests include machine learning and data mining, especially, reco
 Selected Publications
 =====
 
-
 | **Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**                                        |
 |:--------------------------------------------------------------------------------------------------------------------------------------------|  
 | Yunjia Xi, **Muyan Weng**, Wen Chen, Chao Yi, Dian Chen, Gaoyang Guo, Mao Zhang, Jian Wu, Yuning Jiang, Qingwen Liu, Yong Yu, Weinan Zhang. |  
@@ -66,7 +65,7 @@ Internships
 - [Taobao and Tmall Group, Alibaba Group Holding Limited](https://ali-home.alibaba.com/about-alibaba)
   -  Research Intern, Algorithm Technology Department, supervised by Wen Chen.
   - Beijing, China.&ensp;Jul. 2024 - Feb. 2025
-  - Focus on the application of LLMs in recommendation system. The paper on our work is accepted by KDD 2025 [link](https://arxiv.org/abs/2502.13539].
+  - Focus on the application of LLMs in recommendation system. The paper on our work is accepted by KDD 2025 [link](https://arxiv.org/abs/2502.13539).
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script> -->
 
