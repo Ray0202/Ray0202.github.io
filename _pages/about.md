@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a undergraduate student at Shanghai JiaoTong University. I am now persuing a Bachelor's degree in Computer Science and Technology(IEEE Pilot Class). I am also the member of [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). before this, I had a wonderful research experience at Professor [Quanshi Zhang](http://qszhang.com/)'s [XAI Lab](https://sjtu-xai-lab.github.io/).
+Hello! I am an incoming PhD student at USC. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU). I am also the member of [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). before this, I had a wonderful research experience at Professor [Quanshi Zhang](http://qszhang.com/)'s [XAI Lab](https://sjtu-xai-lab.github.io/).
 
 My research interests include machine learning and data mining, especially, recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
 
@@ -18,18 +18,21 @@ My research interests include machine learning and data mining, especially, reco
 Selected Publications
 =====
 
+
+| **Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**                                        |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|  
+| Yunjia Xi, **Muyan Weng**, Wen Chen, Chao Yi, Dian Chen, Gaoyang Guo, Mao Zhang, Jian Wu, Yuning Jiang, Qingwen Liu, Yong Yu, Weinan Zhang. |  
+| [link](https://arxiv.org/abs/2502.13539), KDD 2025|                                                                                          |
+
 | **Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models** |
 | :------ |  
 | Yunjia Xi, Weiwen Liu, Jianghao Lin, **Muyan Weng**, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming Tang, Yong Yu, Weinan Zhang. |
 | [link](https://arxiv.org/abs/2408.10520), TORS 2025|
 
+
 PrePrint
 =====
 
-| **Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models** |
-| :------ |  
-| Yunjia Xi, **Muyan Weng**, Wen Chen, Chao Yi, Dian Chen, Gaoyang Guo, Mao Zhang, Jian Wu, Yuning Jiang, Qingwen Liu, Yong Yu, Weinan Zhang.|  
-| [link](https://arxiv.org/abs/2502.13539)|
 
 | **Beyond Positive History: Re-ranking with List-level Hybrid Feedback** |
 | :------ |  
@@ -63,7 +66,7 @@ Internships
 - [Taobao and Tmall Group, Alibaba Group Holding Limited](https://ali-home.alibaba.com/about-alibaba)
   -  Research Intern, Algorithm Technology Department, supervised by Wen Chen.
   - Beijing, China.&ensp;Jul. 2024 - Feb. 2025
-  - Focus on the application of LLMs in recommendation system. The paper on our work will be released soon.
+  - Focus on the application of LLMs in recommendation system. The paper on our work is accepted by KDD 2025 [link](https://arxiv.org/abs/2502.13539].
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=07OpAnqFcfc2gqd-0zGPmSaBGWBTZs4_v8qZKDxrf8A"></script> -->
 
