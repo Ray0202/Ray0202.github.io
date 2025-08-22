@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hello! I am an incoming PhD student at USC. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU). I am also the member of [APEX](https://apex.sjtu.edu.cn/) lab, advised by Prof. [Weinan Zhang](https://wnzhang.net/) and Prof. [Yong Yu](https://apex.sjtu.edu.cn/members/yyu). before this, I had a wonderful research experience at Professor [Quanshi Zhang](http://qszhang.com/)'s [XAI Lab](https://sjtu-xai-lab.github.io/).
+Hello! I'm a first-year PhD student at the Melady Lab, USC. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU).
 
 My research interests include machine learning and data mining, especially, recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
 
