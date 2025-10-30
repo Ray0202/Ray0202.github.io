@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-Hello! I'm a first-year PhD student at the Melady Lab, USC. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU).
+Hello! I'm a first-year PhD student at the [Melady Lab](https://usc-melady.github.io/melady_website/), USC, advised by Prof. Yan Liu. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU).
 
-My research interests include machine learning and data mining, especially, recommender system and information retrieval. I am also interested in the interesting applications of LLMs in recommender system.
+My research interests include machine learning and data mining, especially, time series problem. I am also interested in the interesting applications of LLMs in recommender system.
 
 
 Selected Publications
@@ -50,8 +50,8 @@ Research Experience
 ======
 - [APEX Lab, Shanghai JiaoTong University](https://apex.sjtu.edu.cn/)
   - Research Assistant, supervised by Prof. Weinan Zhang and Prof. Yong Yu.
-  - Shanghai, China.&ensp;Sep. 2023 - Present
-  - Focus on dataming, including traditional recommendation system and Innovative use of LLM.
+  - Shanghai, China.&ensp;Sep. 2023 - Sep. 2025
+  - Focus on data mining, including traditional recommendation system and Innovative use of LLM.
 
 - [XAI Lab, Shanghai JiaoTong University](https://sjtu-xai-lab.github.io/)
   - Research Assistant, supervised by Prof. Quanshi Zhang.
