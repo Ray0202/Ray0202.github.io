@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hello! I'm a first-year PhD student at the [Melady Lab](https://usc-melady.github.io/melady_website/), USC, advised by Prof. Yan Liu. Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU).
+Hello! I'm a first-year PhD student at the [Melady Lab](https://usc-melady.github.io/melady_website/), USC, advised by Prof. [Yan Liu](https://sites.google.com/view/yanliu-ai/home). Previously I earned my Bachelor's degree in Computer Science and Technology (IEEE Pilot Class) from Shanghai Jiao Tong University (SJTU).
 
 My research interests include machine learning and data mining, especially, time series problem. I am also interested in the interesting applications of LLMs in recommender system.
 
@@ -18,8 +18,8 @@ My research interests include machine learning and data mining, especially, time
 Selected Publications
 =====
 
-| **Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**                                        |
-|:--------------------------------------------------------------------------------------------------------------------------------------------|  
+| **Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**      |
+| :------ |  
 | Yunjia Xi, **Muyan Weng**, Wen Chen, Chao Yi, Dian Chen, Gaoyang Guo, Mao Zhang, Jian Wu, Yuning Jiang, Qingwen Liu, Yong Yu, Weinan Zhang. |  
 | [link](https://arxiv.org/abs/2502.13539), KDD 2025|                                                                                          |
 
@@ -31,6 +31,12 @@ Selected Publications
 
 PrePrint
 =====
+
+| **TemporalBench: A Benchmark for Evaluating LLM-Based Agents on Contextual and Event-Informed Time Series Tasks** |
+| :------ |  
+| **Muyan Weng**, Defu Cao, Wei Yang, Yashaswi Sharma, Yan Liu. |  
+| [link](https://arxiv.org/pdf/2602.13272)|
+
 
 
 | **Beyond Positive History: Re-ranking with List-level Hybrid Feedback** |
