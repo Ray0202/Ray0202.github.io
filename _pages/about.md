@@ -72,6 +72,9 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2602.13272">TemporalBench: A Benchmark for Evaluating LLM-Based Agents on Contextual and Event-Informed Time Series Tasks</a></h3>
         <p class="publication-card__authors"><strong>Muyan Weng</strong>, Defu Cao, Wei Yang, Yashaswi Sharma, Yan Liu.</p>
       </div>
+      <a class="publication-card__thumb" href="https://arxiv.org/abs/2602.13272" aria-label="Preview TemporalBench">
+        <img src="/images/TemporalBench.png" alt="Thumbnail preview for TemporalBench" loading="lazy">
+      </a>
       <a class="publication-card__link" href="https://arxiv.org/abs/2602.13272" aria-label="Read TemporalBench">
         <span aria-hidden="true">↗</span>
       </a>
@@ -84,6 +87,9 @@ redirect_from:
         <h3>Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems</h3>
         <p class="publication-card__authors">Wen Ye*, <strong>Muyan Weng*</strong>, Chuizheng Meng, Hao Niu, Yizhou Zhang, Yan Liu.</p>
       </div>
+      <div class="publication-card__thumb">
+        <img src="/images/coarse.png" alt="Thumbnail preview for Coarse-to-Fine Multi-Resolution Diffusion Models" loading="lazy">
+      </div>
     </article>
 
     <article class="publication-card">
@@ -93,6 +99,9 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2603.07972">Adaptive Collaboration with Humans: Metacognitive Policy Optimization for Multi-Agent LLMs with Continual Learning</a></h3>
         <p class="publication-card__authors">Wei Yang, Defu Cao, Jiacheng Pang, <strong>Muyan Weng</strong>, Yan Liu.</p>
       </div>
+      <a class="publication-card__thumb" href="https://arxiv.org/abs/2603.07972" aria-label="Preview Adaptive Collaboration with Humans">
+        <img src="/images/adaptive.png" alt="Thumbnail preview for Adaptive Collaboration with Humans" loading="lazy">
+      </a>
       <a class="publication-card__link" href="https://arxiv.org/abs/2603.07972" aria-label="Read Adaptive Collaboration with Humans">
         <span aria-hidden="true">↗</span>
       </a>
@@ -105,6 +114,9 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2502.13539">Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models</a></h3>
         <p class="publication-card__authors">Yunjia Xi*, <strong>Muyan Weng*</strong>, Wen Chen, Chao Yi, Dian Chen, Gaoyang Guo, Mao Zhang, Jian Wu, Yuning Jiang, Qingwen Liu, Yong Yu, Weinan Zhang.</p>
       </div>
+      <a class="publication-card__thumb" href="https://arxiv.org/abs/2502.13539" aria-label="Preview Bursting Filter Bubble">
+        <img src="/images/burst_filter_bubble.png" alt="Thumbnail preview for Bursting Filter Bubble" loading="lazy">
+      </a>
       <a class="publication-card__link" href="https://arxiv.org/abs/2502.13539" aria-label="Read Bursting Filter Bubble">
         <span aria-hidden="true">↗</span>
       </a>
@@ -117,6 +129,9 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2408.10520">Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models</a></h3>
         <p class="publication-card__authors">Yunjia Xi, Weiwen Liu, Jianghao Lin, <strong>Muyan Weng</strong>, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming Tang, Yong Yu, Weinan Zhang.</p>
       </div>
+      <a class="publication-card__thumb" href="https://arxiv.org/abs/2408.10520" aria-label="Preview Efficient and Deployable Knowledge Infusion">
+        <img src="/images/efficient.png" alt="Thumbnail preview for Efficient and Deployable Knowledge Infusion" loading="lazy">
+      </a>
       <a class="publication-card__link" href="https://arxiv.org/abs/2408.10520" aria-label="Read Efficient and Deployable Knowledge Infusion">
         <span aria-hidden="true">↗</span>
       </a>
@@ -129,17 +144,29 @@ redirect_from:
       <h3>PrePrint</h3>
     </div>
     <div class="preprint-grid">
-      <article>
-        <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5819182">Toward Evolutionary Intelligence: LLM-based Agentic Systems with Multi-Agent Reinforcement Learning</a></h4>
-        <p>Wei Yang, <strong>Muyan Weng</strong>, Jiacheng Pang, Defu Cao, Heng Ping, Peiyu Zhang, Shixuan Li, Yue Zhao, Qiang Yang, Mengdi Wang, Yan Liu.</p>
+      <article class="preprint-card preprint-card--with-thumb">
+        <div class="preprint-card__body">
+          <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5819182">Toward Evolutionary Intelligence: LLM-based Agentic Systems with Multi-Agent Reinforcement Learning</a></h4>
+          <p>Wei Yang, <strong>Muyan Weng</strong>, Jiacheng Pang, Defu Cao, Heng Ping, Peiyu Zhang, Shixuan Li, Yue Zhao, Qiang Yang, Mengdi Wang, Yan Liu.</p>
+        </div>
+        <a class="preprint-card__thumb" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5819182" aria-label="Preview Toward Evolutionary Intelligence">
+          <img src="/images/towards.png" alt="Thumbnail preview for Toward Evolutionary Intelligence" loading="lazy">
+        </a>
       </article>
-      <article>
-        <h4><a href="https://arxiv.org/abs/2410.20778">Beyond Positive History: Re-ranking with List-level Hybrid Feedback</a></h4>
-        <p><strong>Muyan Weng*</strong>, Yunjia Xi*, Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu.</p>
+      <article class="preprint-card preprint-card--with-thumb">
+        <div class="preprint-card__body">
+          <h4><a href="https://arxiv.org/abs/2410.20778">Beyond Positive History: Re-ranking with List-level Hybrid Feedback</a></h4>
+          <p><strong>Muyan Weng*</strong>, Yunjia Xi*, Weiwen Liu, Bo Chen, Jianghao Lin, Weinan Zhang, Yong Yu.</p>
+        </div>
+        <a class="preprint-card__thumb" href="https://arxiv.org/abs/2410.20778" aria-label="Preview Beyond Positive History">
+          <img src="/images/rerank.png" alt="Thumbnail preview for Beyond Positive History" loading="lazy">
+        </a>
       </article>
-      <article>
-        <h4>Extracting Robust On-Manifold Interactions Encoded by Neural Networks</h4>
-        <p>Jie Ren, <strong>Muyan Weng</strong>, Lu Chen, Tian Han, Quanshi Zhang.</p>
+      <article class="preprint-card">
+        <div class="preprint-card__body">
+          <h4>Extracting Robust On-Manifold Interactions Encoded by Neural Networks</h4>
+          <p>Jie Ren, <strong>Muyan Weng</strong>, Lu Chen, Tian Han, Quanshi Zhang.</p>
+        </div>
       </article>
     </div>
   </div>
