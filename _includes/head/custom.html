@@ -2,6 +2,85 @@
 
 <!-- start custom head snippets -->
 
+<script>
+  (function () {
+    var storageKey = "site-theme";
+    var media = window.matchMedia("(prefers-color-scheme: dark)");
+    var savedTheme = null;
+
+    try {
+      savedTheme = window.localStorage.getItem(storageKey);
+    } catch (error) {
+      savedTheme = null;
+    }
+
+    function systemTheme() {
+      return media.matches ? "dark" : "light";
+    }
+
+    function applyTheme(theme, source) {
+      document.documentElement.setAttribute("data-theme", theme);
+      document.documentElement.setAttribute("data-theme-source", source);
+
+      var toggle = document.querySelector("[data-theme-toggle]");
+      if (toggle) {
+        var nextTheme = theme === "dark" ? "light" : "dark";
+        var label = "Switch to " + nextTheme + " mode";
+        toggle.setAttribute("aria-label", label);
+        toggle.setAttribute("title", label);
+        toggle.setAttribute("aria-pressed", theme === "dark" ? "true" : "false");
+      }
+
+      var themeColor = document.querySelector("[data-theme-color]");
+      if (themeColor) {
+        themeColor.setAttribute("content", theme === "dark" ? "#17191d" : "#fbfbfc");
+      }
+    }
+
+    applyTheme(savedTheme || systemTheme(), savedTheme ? "manual" : "system");
+
+    document.addEventListener("DOMContentLoaded", function () {
+      applyTheme(
+        document.documentElement.getAttribute("data-theme") || systemTheme(),
+        document.documentElement.getAttribute("data-theme-source") || "system"
+      );
+    });
+
+    document.addEventListener("click", function (event) {
+      var target = event.target;
+      var toggle = target.closest ? target.closest("[data-theme-toggle]") : null;
+
+      if (!toggle) {
+        return;
+      }
+
+      var nextTheme =
+        document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+
+      try {
+        window.localStorage.setItem(storageKey, nextTheme);
+      } catch (error) {
+        // The selected theme still applies for the current page.
+      }
+
+      applyTheme(nextTheme, "manual");
+    });
+
+    var handleSystemChange = function () {
+      var source = document.documentElement.getAttribute("data-theme-source");
+      if (source !== "manual") {
+        applyTheme(systemTheme(), "system");
+      }
+    };
+
+    if (media.addEventListener) {
+      media.addEventListener("change", handleSystemChange);
+    } else if (media.addListener) {
+      media.addListener(handleSystemChange);
+    }
+  })();
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -21,7 +100,7 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#fbfbfc" data-theme-color>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 
