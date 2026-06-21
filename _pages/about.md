@@ -186,7 +186,7 @@ redirect_from:
       <div class="experience-item__dot" aria-hidden="true"></div>
       <div class="experience-item__content">
         <p class="experience-item__type">Shanghai, China</p>
-        <h3><a href="https://apex.sjtu.edu.cn/">APEX Lab, Shanghai JiaoTong University</a></h3>
+        <h3><a href="https://apex.sjtu.edu.cn/">APEX Lab, Shanghai Jiao Tong University</a></h3>
         <p>Research Assistant, supervised by Prof. Weinan Zhang and Prof. Yong Yu.</p>
         <p class="experience-item__focus">Focus on data mining, including traditional recommendation system and Innovative use of LLM.</p>
       </div>
@@ -197,7 +197,7 @@ redirect_from:
       <div class="experience-item__dot" aria-hidden="true"></div>
       <div class="experience-item__content">
         <p class="experience-item__type">Shanghai, China</p>
-        <h3><a href="https://sjtu-xai-lab.github.io/">XAI Lab, Shanghai JiaoTong University</a></h3>
+        <h3><a href="https://sjtu-xai-lab.github.io/">XAI Lab, Shanghai Jiao Tong University</a></h3>
         <p>Research Assistant, supervised by Prof. Quanshi Zhang.</p>
         <p class="experience-item__focus">Focus on the AI explainability.</p>
       </div>
